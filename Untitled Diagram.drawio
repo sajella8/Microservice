@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T15:33:27.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PhrUPwacZLAH643dEfCc" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T15:38:59.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QyPp1uhMG_VNq1yvl6hi" version="24.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1147" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Create ocir url, download the image as tar file" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="300" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ff9ctfdQbOols4yk4HQ5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ff9ctfdQbOols4yk4HQ5-4" target="ff9ctfdQbOols4yk4HQ5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ff9ctfdQbOols4yk4HQ5-4" value="Approval Automation Client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="410" width="120" height="50" as="geometry" />
         </mxCell>
@@ -54,32 +57,35 @@
         <mxCell id="ff9ctfdQbOols4yk4HQ5-11" value="Input: tar file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="360" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ff9ctfdQbOols4yk4HQ5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ff9ctfdQbOols4yk4HQ5-14" target="ff9ctfdQbOols4yk4HQ5-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ff9ctfdQbOols4yk4HQ5-14" value="PLS &amp;amp; Vulnerability Scan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ff9ctfdQbOols4yk4HQ5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ff9ctfdQbOols4yk4HQ5-15" target="ff9ctfdQbOols4yk4HQ5-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ff9ctfdQbOols4yk4HQ5-15" value="Malware Scan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ff9ctfdQbOols4yk4HQ5-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ff9ctfdQbOols4yk4HQ5-4" target="ff9ctfdQbOols4yk4HQ5-14">
+        <mxCell id="ff9ctfdQbOols4yk4HQ5-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ff9ctfdQbOols4yk4HQ5-4" target="ff9ctfdQbOols4yk4HQ5-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="210" y="490" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ff9ctfdQbOols4yk4HQ5-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ff9ctfdQbOols4yk4HQ5-4" target="ff9ctfdQbOols4yk4HQ5-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="470" as="sourcePoint" />
-            <mxPoint x="130" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ff9ctfdQbOols4yk4HQ5-19" value="--all" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="478" width="40" height="30" as="geometry" />
+          <mxGeometry x="90" y="490" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ff9ctfdQbOols4yk4HQ5-20" value="--malware" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="478" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ff9ctfdQbOols4yk4HQ5-21" value="&lt;pre style=&quot;&quot;&gt;&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1. ONE VERB FOR IMAGE SCAN AND PATCH SCAN&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2. PLS, MALWARE AND VULN SCANS&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. SYNC/ASYNC CALLS&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;-Fqa7TPpRocDxB_hccjI&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="195" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ff9ctfdQbOols4yk4HQ5-25" value="Upload JSON reports to artifactory" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="600" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
