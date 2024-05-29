@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T07:10:29.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3mcLJCTPnwCeJXconkat" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T07:10:35.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3koH80v8y0vJEpE5LJKj" version="24.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,9 +57,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275.5" y="210.88235294117646" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ff9ctfdQbOols4yk4HQ5-21" value="&lt;pre style=&quot;&quot;&gt;&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1. ONE VERB FOR IMAGE SCAN AND PATCH SCAN&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2. PLS, MALWARE AND VULN SCANS&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. SYNC/ASYNC CALLS&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;-Fqa7TPpRocDxB_hccjI&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="570" y="195" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bfx6ZXpTKwMHhjVZ1_P0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bfx6ZXpTKwMHhjVZ1_P0-0" target="ff9ctfdQbOols4yk4HQ5-4">
           <mxGeometry relative="1" as="geometry" />
